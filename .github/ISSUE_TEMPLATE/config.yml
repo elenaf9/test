@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question
+    url:  https://github.com/elenaf9/test/discussions/new?category=q-a
+    about: Please ask questions in the <repo> GitHub Discussions forum.
+  - name: <Repo> Discourse Forum
+    url:  https://docs.github.com
+    about: Discussions and questions related to <repo>.
